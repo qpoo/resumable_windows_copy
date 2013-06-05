@@ -22,8 +22,8 @@ directory.
 Requirements:
 ----------------------
 * only tested on windows
-* [python 3.3] (x86 install: http://www.python.org/ftp/python/3.3.2/python-3.3.2.msi)
-             (x86-64 install: http://www.python.org/ftp/python/3.3.2/python-3.3.2.amd64.msi)
+* [python 3.3 x86] (http://www.python.org/ftp/python/3.3.2/python-3.3.2.msi)
+* [python 3.3 x86-64] (http://www.python.org/ftp/python/3.3.2/python-3.3.2.amd64.msi)
 
 Usage:
 ----------------------
