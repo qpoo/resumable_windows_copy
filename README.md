@@ -27,21 +27,21 @@ Requirements:
 
 Usage:
 ----------------------
-usage: resumable_windows_copy.py [-h] --source SOURCE --destiny DESTINY
-                                 [--check] [--verbose]
+      C:\Python3.3\python d:\scripts\resumable_windows_copy -h
+      usage: resumable_windows_copy.py [-h] --source SOURCE --destiny DESTINY
+                                       [--check] [--verbose]
 
-Resume file copying for windows. If copying is terminated before
-completion, you can rerun it to resume copying from where it was last left
-off.
+      Resume file copying for windows. If copying is terminated before
+      completion, you can rerun it to resume copying from where it was last left off.
 
-optional arguments:
-  -h, --help         show this help message and exit
-  --source SOURCE    Source directory of data
-  --destiny DESTINY  Destiny directory. data will be backed up in the 'pukcab'
-                     subdirectory (** 'pukcab' is the reverse of the word
-                     'backup' to avoid possible naming collision)
-  --check            Only list what needs to be copied, not actual copying
-  --verbose          Verbose mode, print more info
+      optional arguments:
+        -h, --help         show this help message and exit
+        --source SOURCE    Source directory of data
+        --destiny DESTINY  Destiny directory. data will be backed up in the 'pukcab'
+                           subdirectory (** 'pukcab' is the reverse of the word
+                           'backup' to avoid possible naming collision)
+        --check            Only list what needs to be copied, not actual copying
+        --verbose          Verbose mode, print more info
 
 Example:
 ---------------------
