@@ -45,7 +45,11 @@ Usage:
 
 Example:
 ---------------------
-After you downloaded the windows python msi file, run it and get the path to it. After that run:
-C:\Python33\python D:\tmp\resumable_windows_copy.py --source D:\Ubuntu11 --destiny C:
+After you downloaded the windows python msi file and install it. Let's say, you installed your python
+at: C:\Python3.3 directory.
+
+To copy files from source directory D:\Ubuntu11 to destiny directory C:, run:
+     C:\Python3.3\python D:\tmp\resumable_windows_copy.py --s D:\Ubuntu11 --d C:
+The files will be copied in the directory 'C:\pukcab'
 
 #
