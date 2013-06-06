@@ -48,8 +48,10 @@ Example:
 After you downloaded the windows python msi file and install it. Let's say, you installed your python
 at: C:\Python3.3 directory.
 
-To copy files from source directory D:\Ubuntu11 to destiny directory C:, run:
+To copy files from source directory D:\Ubuntu11 to destiny directory C:, just run:
+
      C:\Python3.3\python D:\tmp\resumable_windows_copy.py --s D:\Ubuntu11 --d C:
+     
 The files will be copied in the directory 'C:\pukcab'
 
 #
