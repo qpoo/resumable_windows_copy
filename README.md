@@ -52,6 +52,6 @@ To copy files from source directory D:\Ubuntu11 to destiny directory C:, just ru
 
      C:\Python3.3\python D:\tmp\resumable_windows_copy.py --s D:\Ubuntu11 --d C:
      
-The files will be copied in the directory 'C:\pukcab'
+The files will be copied to the directory 'C:\pukcab'
 
 #
