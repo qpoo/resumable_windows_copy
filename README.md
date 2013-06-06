@@ -31,7 +31,7 @@ Usage:
       usage: resumable_windows_copy.py [-h] --source SOURCE --destiny DESTINY
                                        [--check] [--verbose]
 
-      Resume file copying for windows. If copying is terminated before
+      Resumable file copying for windows. If copying is terminated before
       completion, you can rerun it to resume copying from where it was last left off.
 
       optional arguments:
