@@ -27,7 +27,7 @@ Requirements:
 
 Usage:
 ----------------------
-      C:\Python3.3\python d:\scripts\resumable_windows_copy -h
+      C:\Python3.3\python d:\scripts\resumable_windows_copy.py -h
       usage: C:\Python3.3\python resumable_windows_copy.py [-h] --source SOURCE --destiny DESTINY
                                                            [--check] [--verbose]
 
